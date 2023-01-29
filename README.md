@@ -1,5 +1,5 @@
 # Library-Management-System
-The following project implements various operations of object oriented programming.
+The following project implements various operations of object oriented programming in python.
 
 Run the app.py for main application.
 my_functions.py contains various methods for management of book details.
